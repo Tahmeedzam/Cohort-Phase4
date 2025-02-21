@@ -1,4 +1,6 @@
-import Hello from "./components/hello";
+// 37min
+
+import Hello from "../components/hello";
 
 
 export default function Home() {
